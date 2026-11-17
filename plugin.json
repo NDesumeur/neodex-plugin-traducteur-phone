@@ -1,0 +1,26 @@
+{
+  "id": "neodex.traducteur",
+  "name": "Traducteur",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "description": "Traduit pendant que tu écris, entre 16 langues (français, anglais, espagnol, allemand, japonais, chinois, arabe…), avec la détection automatique de la langue de départ, un bouton pour inverser le sens et la copie en un clic. Les longs textes sont découpés aux fins de phrases. Service MyMemory, gratuit et sans compte (environ 5 000 caractères par jour) ; rien n'est enregistré. Zones de texte plus grandes, à la hauteur de la fenêtre, et textes agrandis ; sur un écran étroit, les deux zones passent l'une sous l'autre.",
+  "icon": "icon.png",
+  "entry": "index.js",
+  "view": "traducteur",
+  "neobase": ">=4.0.0",
+  "type": "app",
+  "category": "Outils",
+  "compatibility": [
+    "android"
+  ],
+  "syncMode": "aucune",
+  "syncInfo": "Rien : le texte et sa traduction restent seulement à l'écran.",
+  "mobile": true,
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [
+    "storage",
+    "network:api.mymemory.translated.net"
+  ]
+}
