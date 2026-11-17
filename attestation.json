@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.traducteur",
+  "repo": "NDesumeur/neodex-plugin-traducteur-phone",
+  "version": "1.0.0",
+  "sha256": "3ca46b277abe63d7acfa98af97feadab2369cd9f968ab8918fb4995085af91a0",
+  "approvedAt": "2026-11-17T18:40:03.566Z",
+  "neobase": ">=4.0.0",
+  "signature": "0lhl5UlVhhLm9I5E8EdULK8Qj1BR6CaS73yO5lDrGkkPjHordU3m8JpQDpeZtAuubgk+8SaiKK5vyO2G8VzvAA=="
+}
